@@ -11,7 +11,7 @@
    nearai login
    ```
 
-    3. Create an agent
+3. Create an agent
 
 
    ```
